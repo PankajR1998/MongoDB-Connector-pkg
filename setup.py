@@ -19,7 +19,7 @@ with open('README.md','r',encoding='utf-8') as f:
 
 __version__ = "0.0.4"
 REPO_NAME = "MongoDB-Connector-pkg"
-PKG_NAME = "MongDB-Connect" # by this name package will be visible.
+PKG_NAME = "mongohelper" # by this name package will be visible.
 AUTHOR_USER_NAME = "PankajR1998"
 AUTHOR_EMAIL = "rawatpankaj9919@gmail.com"
 
