@@ -27,8 +27,3 @@ setup(
     packages=find_packages(where="src"),
     )
 
-
-    package_dir={"":"src"},
-    packages=find_packages(where="src"),
-    # install_requires=get_requirements(Path('./requirements.txt'))
-)   
